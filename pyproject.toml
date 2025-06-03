@@ -37,7 +37,7 @@ dependencies = [
     "emmet-core<0.84; python_version < '3.10'",
     "loguru",
     "mp-api",
-    "numpy<2",
+    "numpy",
     "opt_einsum_fx",
     "pydantic>=2.9.2",
     "pymatgen",
